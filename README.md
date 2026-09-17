@@ -2,6 +2,8 @@
 
 # ☁️ Heaven3D
 
+<img width="1690" height="979" alt="gameeglory" src="https://github.com/user-attachments/assets/f4865664-c6f7-41f7-b977-88398f1833ea" />
+
 **A complete 3D game engine built from the metal up — in Python.**
 
 Deferred PBR rendering · CPU physics · Built-in editor · Standalone runtime
