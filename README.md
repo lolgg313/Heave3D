@@ -99,10 +99,10 @@ cd Heaven3D
 python Heaven3D.py
 ```
 
-Or launch through the sample game:
+### Play mode
 
 ```bash
-python YourGame.py
+python Heaven3D_runtime.py
 ```
 
 ### Standalone runtime
