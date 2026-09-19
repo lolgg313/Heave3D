@@ -89,7 +89,7 @@ pip install trimesh
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heaven3D.git
+git clone https://github.com/lolgg313/Heaven3D.git
 cd Heaven3D
 ```
 
