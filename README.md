@@ -157,7 +157,8 @@ eng.audio.play("explosion.wav")  # your own file
 ```
 Heaven3D/
 ├── Heaven3D.py    # The engine: renderer, physics, editor, importers, runtime
-├── YourGame.py    # Sample game demonstrating the full pipeline
+├── Heaven3D_runtime.py    # The Standalone Game Out Put that only runs on main.heaven3d save file.
+├── FILEBURNER.py    # Fixing file path for in game used assets and media compatible with linux and windows.  
 ├── LICENSE        # Apache License 2.0
 └── README.md
 ```
